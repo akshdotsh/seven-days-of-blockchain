@@ -2,6 +2,8 @@
 
 A complete **7-day guided roadmap** to become a **Web3-ready full-stack blockchain developer**, covering **Ethereum, Solidity, Hardhat, Web3.js/Ethers.js, NFTs, DeFi, IPFS, OpenZeppelin, and Layer 2 scaling** — designed for **entry-level Web3 jobs and hackathons**.
 
+https://akshkhurana.notion.site/7-Days-of-Blockchain-29b615237649805992e0e23a0d502995?source=copy_link
+
 ---
 
 ## 📅 Estimated Time Breakdown:
